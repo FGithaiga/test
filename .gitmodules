@@ -1,0 +1,12 @@
+[submodule "Phase_2/ANOVA/dsc-anova"]
+	path = Phase_2/ANOVA/dsc-anova
+	url = https://github.com/learn-co-curriculum/dsc-anova
+[submodule "Phase_2/CLT/CLT_Confidence_intervals"]
+	path = Phase_2/CLT/CLT_Confidence_intervals
+	url = https://github.com/learn-co-curriculum/dsc-clt-confidence-intervals
+[submodule "Phase_2/Chi-Square Tests/dsc-chi-square"]
+	path = Phase_2/Chi-Square Tests/dsc-chi-square
+	url = https://github.com/learn-co-curriculum/dsc-chi-square
+[submodule "Phase_2/Connecting_to_SQL_Databases/dsc-intro-to-sql"]
+	path = Phase_2/Connecting_to_SQL_Databases/dsc-intro-to-sql
+	url = https://github.com/learn-co-curriculum/dsc-intro-to-sqlite
