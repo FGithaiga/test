@@ -1,0 +1,23 @@
+[33m9348f91[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m Merge remote-tracking branch 'origin/master'
+[33mccc34f0[m Finished Lab
+[33m07b138e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Updating requirements
+[33m6acaca0[m Adding files via FIS actions updater script
+[33m39bb4e8[m removed dsc-github-actions-files
+[33mbcff963[m syncing changes across branches
+[33m1edb0d6[m fixed learning objectives
+[33ma9fcc43[m run solution cells
+[33mc8d9084[m grammar
+[33ma4ce6c1[m clarified what sample parameter means
+[33m83aa04e[m updated image to match alpha = 0.05
+[33m84c018c[m markdown merger
+[33meea5350[m corrrected number of markdown cells
+[33maf16443[m removed many of the old cells
+[33m3b28b40[m moved images to image folder
+[33ma866b9b[m updated with 2.0 markdown from solution
+[33m20a1d1b[m grammar fixes
+[33m880f530[m Merge pull request #4 from sik-flow/master
+[33mabb2687[m Update instructions to match solution
+[33mf956969[m updated sample array to match solutions. updated correct answer for crit value of sample
+[33m4a7d753[m review done master
+[33m68a9354[m uploads
+[33m34da762[m uploads
